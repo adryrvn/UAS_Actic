@@ -7,6 +7,7 @@ Run Ionic
 ionic serve
 
 Seki Group
+
 • Adrian Yorivan  
 • Mario Sabar      
 • Herdi Prayuda
