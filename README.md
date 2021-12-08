@@ -11,7 +11,5 @@ Seki Group
 • Adrian Yorivan  
 • Mario Sabar      
 • Herdi Prayuda
-
 • Dery Frawijaya
-
 • Fajri Yudha
