@@ -1,6 +1,6 @@
 # UAS_Actic
 
-#Instal Ionic React
+Instal Ionic React
 npm install ionic-react
 
 #Run Ionic 
