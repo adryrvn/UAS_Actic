@@ -1,9 +1,11 @@
 # UAS_Actic
 
 Instal Ionic React
+
 npm install ionic-react
 
 Run Ionic 
+
 ionic serve
 
 Seki Group
